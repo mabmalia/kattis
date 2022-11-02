@@ -1,0 +1,1 @@
+This repo contains solutions for some of the programming problems in [kattis](https://open.kattis.com/), that I have been solving just for fun and practice.
